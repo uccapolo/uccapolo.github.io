@@ -1,0 +1,86 @@
+
+body{
+background-color: pink;
+}
+
+.green{
+background-color: green;
+}
+
+.red{
+background-color: red;
+}
+.pink{
+background-color: blue;
+}
+
+.yellow{
+background-color: yellow;
+}
+
+.card-title{
+color: blue;
+
+}
+
+.text-color{
+color: red;
+
+}
+
+.top-margin{
+
+	margin-top: 50px;
+}
+
+.my-font{
+font-family: 'Spectral SC', serif;
+
+font-size: 40;
+
+}
+
+.blue-html {
+width: 25%;
+background-color: blue;
+
+}
+
+.red-html {
+width: 45%;
+background-color: red;
+
+}
+
+.Title {
+
+color: red;
+}
+
+.maintext{
+
+text-align: justify;
+
+}
+
+.black-back{
+
+background-color: black;
+
+}
+
+header{
+  background: url(../img/goat.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  height: 100vh;
+}
+
+.margin-title{
+
+	margin-top: 40%;
+}
+
+.button1 {border-radius: 10px;}
